@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zeta Phi Beta Sorority, Inc. - Oklahoma State</title>
-    <link>http://zphiboklahoma.org/</link>
+    <link>/</link>
     <description>Recent content on Zeta Phi Beta Sorority, Inc. - Oklahoma State</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jul 2016 14:22:08 -0500</lastBuildDate>
-    <atom:link href="http://zphiboklahoma.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2016 13:56:01 -0500</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adellaide Heard</title>
+      <link>/spotlight/2016/07/adellaide-heard</link>
+      <pubDate>Tue, 26 Jul 2016 13:56:01 -0500</pubDate>
+      
+      <guid>/spotlight/2016/07/adellaide-heard</guid>
+      <description>&lt;p&gt;Congratulations to Adellaide Dee Heard for winning the Essay Contest in the Miss Plus America Pageant!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>getting things done: the zeta way</title>
-      <link>http://zphiboklahoma.org/news/2016/07/getting-things-done-the-zeta-way</link>
-      <pubDate>Tue, 26 Jul 2016 14:22:08 -0500</pubDate>
+      <link>/news/2016/07/getting-things-done-the-zeta-way</link>
+      <pubDate>Tue, 26 Jul 2016 14:22:00 +0000</pubDate>
       
-      <guid>http://zphiboklahoma.org/news/2016/07/getting-things-done-the-zeta-way</guid>
+      <guid>/news/2016/07/getting-things-done-the-zeta-way</guid>
       <description>
 
 &lt;h2 id=&#34;zeta-business:0864e9fe5a1a9be5bef2837b08ff1d86&#34;&gt;Zeta Business&lt;/h2&gt;
@@ -32,28 +42,19 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Need RSVP&amp;rsquo;s?&lt;/strong&gt;  Try Facebook events, or Eventbrite for your next big thing.  Just need a meeting - Google Plus events might be a better bet, you can create a video Hangout and have rsvp automatically added to a google calendar.  For physical locations, you can have pictures auto-upload from attendees phones and get that scrapbook content ready!&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Managing projects via email?&lt;/strong&gt;  Anyone who has ever sent, or been on the receiving end of a &amp;laquo;reply-all&amp;raquo; can tell you email is not always good for project management.  That Facebook group is all well and good, but have you ever noticed that the most recently used post floats to the top and pushes other, newer updates down?  Embrace team business focused tools like Trello (project management), Slack (team chat), Asana (task management).  All of these programs offer both free and premium features for your next committee project.  Oh yeah don&amp;rsquo;t forget!  Try writing that collaborative report in Google Docs.  Invite your committee and you can all edit the same document in real-time!&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Managing projects via email?&lt;/strong&gt;  Anyone who has ever sent, or been on the receiving end of a &amp;laquo;reply-all&amp;raquo; can tell you email is not always good for project management.  That Facebook group is all well and good, but have you ever noticed that the most recently used post floats to the top and pushes other, newer updates down?  Embrace team business focused tools like &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt; (project management), &lt;a href=&#34;https://slack.com&#34;&gt;Slack&lt;/a&gt; (team chat), &lt;a href=&#34;https://asana.com&#34;&gt;Asana&lt;/a&gt; (task management).  All of these programs offer both free and premium features for your next committee project.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Still writing that report?&lt;/strong&gt;  Try writing a more collaborative report in &lt;a href=&#34;https://www.google.com/drive/&#34;&gt;Google Docs&lt;/a&gt;.  Invite your committee and you can all edit the same document in real-time!  Google documents automatically saves your version history!&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Adellaide Heard</title>
-      <link>http://zphiboklahoma.org/spotlight/2016/07/adellaide-heard</link>
-      <pubDate>Tue, 26 Jul 2016 13:56:01 -0500</pubDate>
-      
-      <guid>http://zphiboklahoma.org/spotlight/2016/07/adellaide-heard</guid>
-      <description>&lt;p&gt;Congratulations to Adellaide Dee Heard for winning the Essay Contest in the Miss Plus America Pageant!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>state meeting 2016</title>
-      <link>http://zphiboklahoma.org/event/2016/07/state-meeting-2016</link>
+      <link>/event/2016/07/state-meeting-2016</link>
       <pubDate>Tue, 26 Jul 2016 08:40:00 +0000</pubDate>
       
-      <guid>http://zphiboklahoma.org/event/2016/07/state-meeting-2016</guid>
+      <guid>/event/2016/07/state-meeting-2016</guid>
       <description>&lt;p&gt;Location: Langston University — Langston, OK — Ag Building&lt;br /&gt;
 Registration: 8:00am – 8:45am&lt;br /&gt;
 Business Session: &lt;strong&gt;9:00am&lt;/strong&gt;&lt;/p&gt;
@@ -70,10 +71,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>Save the Date for the 2016 State Meeting</title>
-      <link>http://zphiboklahoma.org/news/2016/06/save-the-date-for-the-2016-state-meeting</link>
+      <link>/news/2016/06/save-the-date-for-the-2016-state-meeting</link>
       <pubDate>Sat, 11 Jun 2016 07:18:18 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/news/2016/06/save-the-date-for-the-2016-state-meeting</guid>
+      <guid>/news/2016/06/save-the-date-for-the-2016-state-meeting</guid>
       <description>&lt;p&gt;Sorors get ready to attend the 2016 Oklahoma State meeting!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://localhost:1313/img/2016/06/2016std_full_size.png&#34;&gt;Download the Flyer&lt;/a&gt;&lt;/p&gt;
@@ -84,10 +85,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>74th Midwestern Regional Conference Recap</title>
-      <link>http://zphiboklahoma.org/news/2016/06/74th-midwestern-regional-conference-recap</link>
+      <link>/news/2016/06/74th-midwestern-regional-conference-recap</link>
       <pubDate>Wed, 01 Jun 2016 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/news/2016/06/74th-midwestern-regional-conference-recap</guid>
+      <guid>/news/2016/06/74th-midwestern-regional-conference-recap</guid>
       <description>&lt;p&gt;We all had an amazing experience at regionals. It’s truly an honor to be in the presence of Friend Wright. I appreciate the workshops that were presented by Friend Hull, Friend Sadler, and Amica Garrett. We obtained knowledge on communication, being a service to others, and taking pride in our colors. I was pleased to learn how passionate Friend Hull and Sadler are for Amicae. I can best describe them as nurturing us, grooming us to become better women, and emphasizing how sacred being a part of the blue and white family is.&lt;/p&gt;
 
 &lt;p&gt;To all of my Zeta friends, thank you for your warm welcoming. We embrace your hugs, the love you show through your smile, and your kind words. Most of all, our Zeta friends always treated us as equals; allowing our voice to be heard. I, Shayla Beard, and Quinetta Nelson are blessed to be a member of Zeta Amicae Auxiliary. The 74th Annual Midwestern Regional Leadership Conference will be cherished for a lifetime.&lt;/p&gt;
@@ -96,10 +97,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>lillian marigny</title>
-      <link>http://zphiboklahoma.org/spotlight/2015/12/lillian-marigny</link>
+      <link>/spotlight/2015/12/lillian-marigny</link>
       <pubDate>Thu, 24 Dec 2015 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/spotlight/2015/12/lillian-marigny</guid>
+      <guid>/spotlight/2015/12/lillian-marigny</guid>
       <description>&lt;p&gt;Today Oklahoma Zetas mourn the loss of our beloved sister, Lillian Marigny.&lt;/p&gt;
 
 &lt;p&gt;Soror Marigny served the sorority in many capacities and on many levels, including Midwestern Regional Director.&lt;/p&gt;
@@ -110,19 +111,19 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>adopt-a-street sign unveiling and street cleanup</title>
-      <link>http://zphiboklahoma.org/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</link>
+      <link>/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</link>
       <pubDate>Fri, 18 Sep 2015 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</guid>
+      <guid>/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</guid>
       <description></description>
     </item>
     
     <item>
       <title>lola parker dean</title>
-      <link>http://zphiboklahoma.org/spotlight/2015/01/lola-parker-dean</link>
+      <link>/spotlight/2015/01/lola-parker-dean</link>
       <pubDate>Sat, 17 Jan 2015 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/spotlight/2015/01/lola-parker-dean</guid>
+      <guid>/spotlight/2015/01/lola-parker-dean</guid>
       <description>&lt;p&gt;In 1932, Soror Lola Dean began attending Langston University in Langston, Oklahoma, and obtained her teaching certificate within 2 years and then began teaching. In the late 1930&amp;rsquo;s, she returned to Langston University to complete her Bachelor&amp;rsquo;s degree and became a Zeta by way of Lambda Alpha Chapter. During a recent interview, Soror Dean stated that was drawn to Zeta because of the work that she saw the young women do around the campus and she appreciated what they stood for. Soror Dean began teaching at Harrison Chapel School and then moved to Porter, Oklahoma, where she served as principal at the all black Porter school. When integration began to take shape, all of the African American teachers were fired and all the black schools were closed in Muskogee county. As a result, Soror Dean filed a lawsuit, suing the district for her job. She won that lawsuit and shortly thereafter additional black teachers were hired at schools throughout the district.&lt;/p&gt;
 
 &lt;p&gt;Soror Dean has been quoted saying &amp;laquo;My greatest contribution to education is that I taught my kids to study and to do what it took to get them where they wanted to go. Some of them didn&amp;rsquo;t know how to work, stay up late, and &amp;lsquo;burn the midnight oil&amp;rsquo; or to do whatever it took to make it. Hard work never killed anybody; otherwise, I would have been gone a long time ago,&amp;raquo;&lt;/p&gt;
@@ -137,10 +138,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>Chi Zeta &amp; Lambda Alpha</title>
-      <link>http://zphiboklahoma.org/spotlight/2014/05/chi-zeta--lambda-alpha</link>
+      <link>/spotlight/2014/05/chi-zeta--lambda-alpha</link>
       <pubDate>Thu, 01 May 2014 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/spotlight/2014/05/chi-zeta--lambda-alpha</guid>
+      <guid>/spotlight/2014/05/chi-zeta--lambda-alpha</guid>
       <description>
 
 &lt;h2 id=&#34;undergraduate-chapter-of-the-year:d3aaa7fa11b9c4e1e6011a58497f4c6c&#34;&gt;Undergraduate Chapter of the Year&lt;/h2&gt;
@@ -157,10 +158,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>Greetings from Zeta Phi Beta sorority, inc.-oklahoma state</title>
-      <link>http://zphiboklahoma.org/news/2014/04/state-director-woody-greetings</link>
+      <link>/news/2014/04/state-director-woody-greetings</link>
       <pubDate>Tue, 01 Apr 2014 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/news/2014/04/state-director-woody-greetings</guid>
+      <guid>/news/2014/04/state-director-woody-greetings</guid>
       <description>
 
 &lt;h2 id=&#34;welcome-to-the-website-of-zeta-phi-beta-sorority-inc-outstanding-state-of-oklahoma:f0bec1d869e1df63516d1bfc946676e3&#34;&gt;Welcome to the website of Zeta Phi Beta Sorority, Inc. – Outstanding State of Oklahoma!&lt;/h2&gt;
@@ -182,10 +183,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>Xi Nu Zeta</title>
-      <link>http://zphiboklahoma.org/spotlight/2013/11/xi-nu-zeta</link>
+      <link>/spotlight/2013/11/xi-nu-zeta</link>
       <pubDate>Fri, 01 Nov 2013 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/spotlight/2013/11/xi-nu-zeta</guid>
+      <guid>/spotlight/2013/11/xi-nu-zeta</guid>
       <description>&lt;p&gt;The Xi Nu Zeta Chapter of Midwest City, OK was charted in 1989.  Reactivated in 2004, the chapter participates in several national philanthropical community programs, as well as hosting local initiatives, including an Annual Community Picnic where they collect and disburse school supplies and award a scholarship.  They also host a group fitness activity - Strides for Your Heart and the Pajamas, Books and Joy reading program.&lt;/p&gt;
 
 &lt;p&gt;Soror RJ Lewis and her committee did a beautiful job of putting together their scrapbook.&lt;/p&gt;
@@ -194,10 +195,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>shelita jones</title>
-      <link>http://zphiboklahoma.org/spotlight/2013/10/shelita-jones</link>
+      <link>/spotlight/2013/10/shelita-jones</link>
       <pubDate>Wed, 30 Oct 2013 15:16:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/spotlight/2013/10/shelita-jones</guid>
+      <guid>/spotlight/2013/10/shelita-jones</guid>
       <description>&lt;p&gt;Soror Shelita Jones is a Soror’s Soror. Her smile, positive attitude, and spirit of volunteerism is contagious. She lends a hand to anyone in need. She is eager to learn more and more about Zeta and exhibits all the qualities that our beloved sorority was founded upon. She has been a member since 2010 and within that time she has held positions such as the Xi Nu Zeta chapter Sunshine chairperson, the Xi Nu Zeta chapter Tamias-Grammateus, and ZΦB State of Oklahoma ZHOPE coordinator. She was also named Xi Nu Zeta’s chapter member of the year for the 2012-2013 fiscal year. She has volunteered countless hours to her local chapter projects as well as the state’s initiatives and events. She has regular attendance at local meetings and she has also attended several state meetings as well as regional conference.&lt;/p&gt;
 
 &lt;p&gt;Soror Jones is an true asset to Zeta Phi Beta Sorority, Inc. and the sky is the limit on the potential she has for future leadership positions within the organization. I am proud to not only call her my Soror, but my friend as well.&lt;/p&gt;
@@ -211,10 +212,10 @@ Basileus – Zeta Phi Beta Sorority, Inc. - Xi Nu Zeta Chapter&lt;/p&gt;
     
     <item>
       <title>Lambda Alpha</title>
-      <link>http://zphiboklahoma.org/spotlight/2013/09/lambda-alpha</link>
+      <link>/spotlight/2013/09/lambda-alpha</link>
       <pubDate>Sun, 01 Sep 2013 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/spotlight/2013/09/lambda-alpha</guid>
+      <guid>/spotlight/2013/09/lambda-alpha</guid>
       <description>&lt;p&gt;Chartered December 11, 1937 at Langston University in Langston, OK; Zeta was the first national sorority established on Langston’s campus. At that time, it was comprised of both undergraduate and graduate women.&lt;/p&gt;
 
 &lt;p&gt;In April 2013 Lambda Alpha Chapter won Oklahoma State&amp;rsquo;s Membership Focus Initiative, by welcoming 15 young ladies to the sorority, bringing their total chapter membership to 21!&lt;/p&gt;
@@ -227,10 +228,10 @@ Basileus – Zeta Phi Beta Sorority, Inc. - Xi Nu Zeta Chapter&lt;/p&gt;
     
     <item>
       <title>marian martin</title>
-      <link>http://zphiboklahoma.org/spotlight/2013/07/marian-martin</link>
+      <link>/spotlight/2013/07/marian-martin</link>
       <pubDate>Wed, 24 Jul 2013 16:36:41 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/spotlight/2013/07/marian-martin</guid>
+      <guid>/spotlight/2013/07/marian-martin</guid>
       <description>&lt;p&gt;I have known Soror Martin for about a decade now. The phrase that comes to mind when I think of her?&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -249,10 +250,10 @@ to the committee. Despite being the outgoing chapter historian for Chi Zeta, Sor
     
     <item>
       <title></title>
-      <link>http://zphiboklahoma.org/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://zphiboklahoma.org/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;The first chapter in what is now known as the Midwestern Region of Zeta Phi Beta Sorority, Inc. — Pi— was chartered in Tulsa, OK in 1927.  The chapter went inactive after one year and remained so for eight years.  E. Juanita Tate,an original charter member of Pi Chapter, helped to reactivate it in November 1935.&lt;/p&gt;
 
 &lt;p&gt;In that same year Juanita received the following telegram from Grand Basileus Violette N. Anderson: “I have created a new region, named it Southwest and you are the director.” Juanita replied, “There is nothing in the Southwest to direct but my chapter and I am it’s Basileus.” Grand Basileus Anderson responded, “That’s your job. Get something to direct!”&lt;/p&gt;

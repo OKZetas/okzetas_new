@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Zeta Phi Beta Sorority, Inc. - Oklahoma State</title>
-    <link>http://zphiboklahoma.org/event/</link>
+    <link>/event/</link>
     <description>Recent content in Events on Zeta Phi Beta Sorority, Inc. - Oklahoma State</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jul 2016 08:40:00 +0000</lastBuildDate>
-    <atom:link href="http://zphiboklahoma.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>state meeting 2016</title>
-      <link>http://zphiboklahoma.org/event/2016/07/state-meeting-2016</link>
+      <link>/event/2016/07/state-meeting-2016</link>
       <pubDate>Tue, 26 Jul 2016 08:40:00 +0000</pubDate>
       
-      <guid>http://zphiboklahoma.org/event/2016/07/state-meeting-2016</guid>
+      <guid>/event/2016/07/state-meeting-2016</guid>
       <description>&lt;p&gt;Location: Langston University — Langston, OK — Ag Building&lt;br /&gt;
 Registration: 8:00am – 8:45am&lt;br /&gt;
 Business Session: &lt;strong&gt;9:00am&lt;/strong&gt;&lt;/p&gt;
@@ -31,10 +31,10 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     
     <item>
       <title>adopt-a-street sign unveiling and street cleanup</title>
-      <link>http://zphiboklahoma.org/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</link>
+      <link>/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</link>
       <pubDate>Fri, 18 Sep 2015 08:00:00 -0500</pubDate>
       
-      <guid>http://zphiboklahoma.org/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</guid>
+      <guid>/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</guid>
       <description></description>
     </item>
     
