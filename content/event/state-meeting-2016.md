@@ -28,4 +28,6 @@ August 1, 2016 - October 1, 2016
 **Regular registration: $40**
 October 2, 2016- October 15, 2016
 
+[Download the Flyer](img/2016/06/2016std_full_size.png)
+
 <blockquote class="heading">No on-site registration</blockquote>
