@@ -4,11 +4,11 @@ categories = ["conference"]
 contactemail = ""
 contactname = ""
 contactphone = ""
-date = "2016-06-11T07:18:18-05:00"
+date = "2016-06-11T07:18:00+00:00"
 datearticleexpiration = ""
 datearticleupdate = ""
 dateeventend = ""
-dateeventstart = "2016-10-29"
+dateeventstart = "2016-10-29T00:00:00+00:00"
 draft = false
 featured = ""
 featuredalt = "Save the Date"
@@ -17,10 +17,10 @@ location = "Langston University"
 tags = []
 title = "Save the Date for the 2016 State Meeting"
 type = "post"
-+++
 
++++
 Sorors get ready to attend the 2016 Oklahoma State meeting!
 
-[Download the Flyer](http://localhost:1313/img/2016/06/2016std_full_size.png)
+[Download the Flyer](/img/2016/06/2016std_full_size.png)
 
-![Save the Date Flyer](http://localhost:1313/img/2016/06/2016std_full_size.png)
+![Save the Date Flyer](/img/2016/06/2016std_full_size.png)
