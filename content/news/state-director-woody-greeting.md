@@ -11,7 +11,7 @@ featuredalt = "State Director Artisha Woody"
 featuredpath = "date"
 slug = "state-director-woody-greetings"
 tags = []
-title = "Greetings from Zeta Phi Beta sorority, inc.-oklahoma state"
+title = "Greetings from oklahoma state"
 type = "post"
 +++
 

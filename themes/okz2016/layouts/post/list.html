@@ -1,7 +1,7 @@
 <li class="o-list__item c-article-list__item news__item">
   <a href="{{ .RelPermalink }}">
     <h3 class="c-article-list__title text-capitalize">
-      {{substr .Title 0 55 }}{{ with gt (len .Title) 56 }} ...{{ end }}
+      {{substr .Title 0 54 }}{{ with gt (len .Title) 54 }} ...{{ end }}
     </h3>
     {{ $author := .Site.Data.authors.person }}
     {{ with (index $author ($.Params.author)) }}
