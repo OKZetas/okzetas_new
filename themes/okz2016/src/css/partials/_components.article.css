@@ -1,0 +1,10 @@
+.c-article__title {
+  margin-bottom: var(--spacing-unit--md);
+}
+.c-main__content {
+  @nest .article & {
+    & p {
+      margin-bottom: 1.2rem;
+    }
+  }
+}

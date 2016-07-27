@@ -1,0 +1,85 @@
+baseurl = "http://localhost:2020"
+disqusShortname = "shortname"
+googleAnalytics = ""
+languageCode = "en-us"
+paginate = 3
+preserveTaxonomyNames = true
+theme = "okz2016"
+title = "Zeta Phi Beta Sorority, Inc. - Oklahoma State"
+# SectionPagesMenu = "main"
+
+[blackfriday]
+  AngledQuotes = true
+  Fractions = true
+  HrefTargetBlank = false
+  LatexDashes = true
+  PlainIDAnchors = false
+  SmartDashes = true
+  Smartypants = true
+  SourceRelativeLinksEval = false
+  extensions = ["hardLineBreak"]
+
+[params]
+  # Site Author
+  author      = "RJ Lewis"
+  # Sets the meta tag description, usually reserved for the main page
+  description = "Affectionately known as the Oklahoma Zetas, the ladies of Zeta Phi Beta Sorority, Inc. in this state are active in their communities and dedicated to fostering the ideals of scholarship, service, sisterhood and finer womanhood."
+  tagline     = "A community-conscious, action-oriented organization"
+
+  # This will also appear on the sidebar.
+  # This is optional
+  [params.intro.pic]
+      src       = "/img/main/header_img.jpg"
+      alt       = "2015 Zeta Phi Beta Sorority, Inc.-Oklahoma State Meeting Delegation"
+
+[permalinks]
+  news = "/:section/:year/:month/:slug"
+  event = "/:section/:year/:month/:slug"
+  spotlight = "/:section/:year/:month/:slug"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = "-1"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+# Set up your menu items in the navigation bar
+# You can use pre to prepend a font awesome icon to your text
+[[menu.main]]
+  name = "home"
+  pre = ""
+  identifier = "home"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  name = "about"
+  pre = ""
+  identifier = "about"
+  weight = 2
+  url = "/about"
+
+[[menu.main]]
+  name = "events"
+  pre = ""
+  identifier = "events"
+  weight = 3
+  url = "/event"
+
+[[menu.main]]
+  name = "announcements"
+  pre = ""
+  identifier = "announcements"
+  weight = 4
+  url = "/news"
+
+[[menu.main]]
+  name = "spotlight"
+  pre = ""
+  identifier = "spotlight"
+  weight = 4
+  url = "/spotlight"
+

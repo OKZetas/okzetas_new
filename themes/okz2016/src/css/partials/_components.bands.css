@@ -1,0 +1,14 @@
+/*display: inline-block;
+padding: 2px 0 0 28px;
+height: 48px;
+background: url("../images/bullet.png") no-repeat top left;
+background-size: 28px;*/
+.band {
+  background-color: rgba(17, 36, 119, .9);
+  &__ribbon {
+    background-color: var(--primary-root-color-one);
+  }
+  &__content-area {
+    color: rgba(255, 255, 255, 1); 
+  }
+}

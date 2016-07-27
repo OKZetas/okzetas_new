@@ -1,0 +1,53 @@
+name = "Chi Zeta"
+address = """P.O. Box 54498
+OKC, OK  73154
+"""
+chapteradvisor = ""
+chaptersponsor = ""
+chaptertype = "graduate"
+charter = "1936-12-13"
+history = """
+Chi Zeta was chartered December 13, 1936 with Lola Greer, Anna Moore, Henrietta Beasley, Mattie Jeltz and Clara McFall as Charter Members. All the charter members were Oklahoma City natives. Chi Zeta was the first female Divine Nine member to organize in Oklahoma City. Most of the charter members were musically inclined, so it was no surprise that they organized and incorporated “The Little Theater” as one of their first projects. They produced plays, musicals and variety shows through this project.
+
+The Amicae was the first auxiliary organized in the early 1940s for African-American women who were not college graduates and included mothers, sisters and friends of Zetas who were of like mind as the members of the sorority regarding charity, spirituality, and education. A youth group called ZELS, Zetalites and finally Archonettes was also sponsored by Chi Zeta in the early 1960s.
+
+Charitable projects in the 1960s and 1970s include Voter Registration projects, Civil Rights activities and support and work with preventing teen-aged pregnancies and helping young mothers through Stork’s Nest which was started in Oklahoma City in the early 1970s. The 1980s brought Project ZETA which incorporated Drug Abuse Awareness,
+
+Illiteracy Education and AIDS Awareness programs to the community. These programs were expanded to include Political Action activities. The Miss Merry Christmas Pageant provided a vehicle for teen-aged girls to develop social skills and work to earn scholarships for college.
+
+The 1990s expanded these activities and emphasized more work with children and youth. Chi Zeta has maintained a scholarship program of one kind or another through its history. Currently there is a Charter Member Scholarship Fund for undergraduate Zetas enrolled in Oklahoma colleges; Miss Merry Christmas Fund for students who have participated in the Miss Merry Christmas Pageant; Elegance in Blue; and children of members of Chi Zeta.
+
+Chi Zeta has sponsored undergraduate chapters in the state of Oklahoma. First was Beta Gamma (now defunt), chartered in 1960 as a metropolitan undergraduate chapter for the Oklahoma City area. Next was Pi Gamma (now defunct), chartered in 1967 at Northwestern Oklahoma State University in Alva, Oklahoma; and Theta Mu was chartered in 1983 at the University of Oklahoma at Norman, Oklahoma.
+"""
+location = "Oklahoma City, OK"
+president = "Andrea Montgomery"
+[social]
+    github          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = "facebook.com/ChiZetaChapterZPhiB/"
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = ""
+    email           = ""
+    website         = ""

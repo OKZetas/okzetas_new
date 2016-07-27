@@ -1,0 +1,16 @@
+.o-flag {
+  /*display: table;*/
+  width: auto;
+  margin: 10px;
+}
+.o-flag__image, .o-flag__body {
+  display: table-cell;
+  vertical-align: middle;
+  @nest .flag--top & {
+    vertical-align: top; 
+  }
+  @nest .flag--bottom & {
+    vertical-align: bottom;
+  }
+}
+

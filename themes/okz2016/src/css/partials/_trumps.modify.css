@@ -1,0 +1,33 @@
+.blue-line {
+  border: 1px solid rgba(17, 36, 119, 1);
+  margin-top: 0;
+}
+.fa-inverse {
+  color: rgba(32, 65, 165, 1) !important;
+}
+.inline {
+  display: inline-block;
+}
+.pad20 {
+  padding-right: 20px;
+}
+.silver-line {
+  border: 1px solid rgba(201, 201, 201, 1);
+  margin-top: 0;
+}
+.subheading {
+  font-family: var(--root-font-family);
+  font-weight: var(--root-font-weight);
+}
+.text-capitalize {
+  text-transform: capitalize;
+}
+.text-cursive {
+  font-family: var(--heading-font-family);
+}
+.text-lowercase {
+  text-transform: lowercase;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}

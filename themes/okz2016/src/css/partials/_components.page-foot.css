@@ -1,0 +1,28 @@
+.page__footer {
+  background-color: rgba(32, 65, 165, 1);
+  color: rgba(255, 255, 255, 1);
+  padding-bottom: 0;
+}
+.c-logo {
+  /*font-family: var(--heading-font-family);*/
+  font-size: responsive .6rem .975rem;
+  font-range: 20rem 80rem;
+  font-weight: 400;
+  & a {
+    border-bottom: 0;
+    border-bottom: none;
+    &:hover {
+      border-bottom: 0;
+      border-bottom: none;
+    }
+  }
+  & p {
+    color: #fff;
+  }
+}
+.footer__half {
+  padding-top: 15px;
+}
+.footer__half:nth-child(2n) {
+  text-align: right;
+}
