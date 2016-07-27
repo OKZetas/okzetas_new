@@ -4,11 +4,11 @@ categories = ["Conferences"]
 contactemail = "director@zphiboklahoma.org"
 contactname = "Keisha Driskell"
 contactphone = ""
-date = "2016-07-26T08:40:21-05:00"
+date = "2016-07-26T08:40:00+00:00"
 datearticleexpiration = ""
 datearticleupdate = ""
 dateeventend = ""
-dateeventstart = "2016-10-29T08:00:00-05:00"
+dateeventstart = "2016-10-29T09:00:00+00:00"
 draft = false
 featured = "pic01.png"
 featuredalt = "State Meeting Featued Image"
@@ -18,4 +18,14 @@ tags = []
 title = "state meeting 2016"
 
 +++
+Location: Langston University — Langston, OK — Ag Building 
+Registration: 8:00am – 8:45am
+Business Session: 9am sharp
 
+**Early registration: $30**
+August 1, 2016 - October 1, 2016
+
+**Regular registration: $40**
+October 2, 2016- October 15, 2016
+
+<blockquote class="heading">No on-site registration</blockquote>
