@@ -1,0 +1,11 @@
+<li class="o-flag s-flag--bottom o-list__item c-article-list__item t-spotlight-list__item">
+  {{ if .Params.featured }}
+    <span class="o-flag__image" data-layout="u-2/5@lg">
+      {{ .Render "featured" }}
+    </span>
+  {{ end }}
+  <span class="o-flag__body" data-layout="u-3/5@lg">
+    <h3 class="subheading"><a href="{{ .RelPermalink }}">{{ title .Title }}</a></h3>
+    {{ .Params.subtitle }}
+  </span>
+</li>

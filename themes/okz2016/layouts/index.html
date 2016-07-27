@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+  {{ $baseurl := .Site.BaseURL }}
+
+<main class="page__body" role="main">
+  <div class="page__body__content-area">
+    <section  class="c-main__content" data-layout="u-2/3@lg">
+      <div class="newsletter">
+        {{ partial "newsletter.html" . }}
+      </div>
+      <article class="o-media-container t-event">
+        <h2><a href="/event">Upcoming Events</a></h2>
+        <ul class="o-list c-article-list t-events-list">
+          {{ range first 5 (where .Data.Pages "Section" "event") }}
+
+              {{ .Render "list"}}
+  
+          {{ end }}
+        </ul>
+      </article>
+    </section>
+    <aside class="c-main__sidebar o-media-container t-spotlight" data-layout="u-1/3@lg">
+      <header class="section-head">
+        <img src="/img/main/ok_zetas_spotlight.png" alt="OK Zetas Newsletter logo">
+      </header>
+      <ul class="o-list c-article-list t-spotlight-list">
+        {{ range first 3 (where .Data.Pages "Type" "spotlight") }}
+          {{ .Render "list"}}
+        {{ end }}
+      </ul>
+    </aside>
+    
+    <section class="c-main__content--block" data-layout="u-1@lg">
+      <h2><a href="/news">News and Announcements</a></h2>
+      <ul class="o-list c-article-list news">
+        {{ range first 4 (where .Data.Pages "Type" "post")  }}
+          {{ .Render "list"}}
+        {{ end }}
+      </ul>
+    </section>
+    
+    <section class="c-main__content--block o-band--shade" data-layout="u-1@lg">
+      
+    </section>
+    <section class="c-main__content--block" data-layout="u-1@lg">
+      
+    </section>
+    <section class="c-main__content--block o-band" data-layout="u-1@lg">
+      
+    </section>
+  </div>
+</main>
+
+{{ partial "footer.html" . }}

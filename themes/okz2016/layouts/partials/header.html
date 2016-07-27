@@ -1,0 +1,61 @@
+<!doctype html>
+  <html class="canvas" lang="en">
+    <head>
+      {{ with .Title }}
+        <title>{{ . }}</title>
+      {{ else }}
+        <title>{{ .Site.Title }}</title>
+      {{ end }}
+
+      <meta charset="utf-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      {{ with .Params.author }}
+        <meta name="author" content="{{ . }}">
+      {{ end }}
+      {{ with .Description }}
+          <meta name="description" content="{{ . }}">
+      {{ else }}
+          {{ with .Site.Params.description }}
+              <meta name="description" content="{{ . }}">
+          {{ end }}
+      {{ end }}
+      <link rel="apple-touch-icon" href="apple-touch-icon.png">
+      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+      <!-- Place favicon.ico in the root directory -->
+      <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Muli|Poiret+One" rel="stylesheet">
+      <link rel="stylesheet" href="/css/style.css">
+      <link rel="canonical" href="{{ .Permalink }}">
+      <script src="https://use.fontawesome.com/456ca9db71.js"></script>
+      {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
+          {{ template "_internal/google_analytics.html" . }}
+      {{ end }}
+    </head>
+    <body class="page">
+      <header id="top" class="top page__head" role="banner">
+        <div class="band">
+          <div class="band__content-area">
+            <div class="c-logo" data-ui-component="logo" data-layout="u-3/8@lg">
+                <a href="{{ .Site.BaseURL }}">
+                  <img src="/img/main/OKZ_wordmark.png" alt="Oklahoma Zetas wordmark">
+                </a>
+                {{ with .Site.Params.tagline }} <p class="text-uppercase">{{ . }}</p> {{ end }}
+            </div>
+            <nav class="o-nav" role="navigation" data-layout="u-3/8@lg">
+                {{ partial "nav.html" . }}
+            </nav> 
+          </div>
+        </div>
+        <div class="band band__ribbon" >
+          <div class="band__content-area">
+            <ul class="list--inline text-capitalize text-cursive">
+              <li class="list__item">scholarship</li>
+              <li class="list__item">service</li>
+              <li class="list__item">sisterhood</li>
+              <li class="list__item">finer womanhood</li>
+            </ul>
+          </div>
+          <hr class="blue-line">
+        </div>
+
+      </header>
