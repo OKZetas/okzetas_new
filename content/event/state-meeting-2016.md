@@ -20,6 +20,7 @@ title = "state meeting 2016"
 +++
 # Saturday, October 29, 2016
 
+
 Location: Langston University — Langston, OK — Ag Building 
 Registration: 8:00am – 8:45am
 Business Session: **9:00am**
