@@ -4,19 +4,20 @@ categories = []
 contactemail = ""
 contactname = ""
 contactphone = ""
-date = "2016-07-27T17:09:48-05:00"
-datearticleexpiration = ""
+date = 2015-07-27T17:09:48Z
+datearticleexpiration = 2015-09-03T17:08:12Z
 datearticleupdate = ""
 dateeventend = ""
-dateeventstart = ""
-description = ""
-draft = true
+dateeventstart = 2015-09-03T17:08:12Z
+description = "stuff"
+draft = false
 featured = ""
 featuredalt = ""
 featuredpath = ""
 location = ""
 tags = []
-title = "uco interest meeting 09 15"
+title = "uco interest meeting"
 
 +++
 
+stuff

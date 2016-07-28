@@ -22,8 +22,20 @@ title = "Zeta Phi Beta Sorority, Inc. - Oklahoma State"
 [params]
   # Site Author
   author      = "RJ Lewis"
+  contactemail = ""
+  contactname = ""
+  contactphone = ""
+  datearticleexpiration = 2016-01-02T00:00:00Z
+  datearticleupdate = 2016-01-02T00:00:00Z
+  dateeventend = 2016-01-02T00:00:00Z
+  dateeventstart = 2016-01-02T00:00:00Z
   # Sets the meta tag description, usually reserved for the main page
   description = "Affectionately known as the Oklahoma Zetas, the ladies of Zeta Phi Beta Sorority, Inc. in this state are active in their communities and dedicated to fostering the ideals of scholarship, service, sisterhood and finer womanhood."
+  featured = ""
+  featuredalt = ""
+  featuredpath = ""
+  location = ""
+  showtime = true
   tagline     = "A community-conscious, action-oriented organization"
 
   # This will also appear on the sidebar.

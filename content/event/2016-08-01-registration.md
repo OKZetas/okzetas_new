@@ -1,9 +1,24 @@
 +++
-date = "2016-08-01T00:00:00+00:00"
+date = 2016-07-26T18:52:00Z
 draft = false
 slug = "state-meeting-online-registration"
 title = "Register for the 2016 OK State Meeting"
-
+author = "ok"
+categories = ["registration"]
+contactemail = "director@zphiboklahoma.org"
+contactname = ""
+contactphone = ""
+datearticleexpiration = 2016-10-15T23:59:00Z
+datearticleupdate = ""
+dateeventend = 2016-10-15T00:00:00Z
+dateeventstart = 2016-08-01T00:00:00Z
+description = "The Oklahoma State Director invites all financial Sorors in the state to attend the annual state meeting."
+featured = ""
+featuredalt = ""
+featuredpath = ""
+location = "Online"
+showtime = false
+tags = []
 +++
 Sales have not yet started for the 2016 State Meeting.  Please come back on, or after Monday, August 1, 2016 to complete your early registration.  
 

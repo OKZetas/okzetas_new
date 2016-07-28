@@ -3,7 +3,7 @@
     <section class="c-media__body">
       <h3 class="text-capitalize">{{ .Title }}</h3>
       <p class="o-list__meta c-article-list__colophon">
-        <time>{{ dateFormat "Monday, January 2, 2006" .Params.dateeventstart }}{{ with .Params.dateeventend }} — {{ dateFormat "Monday, January 2, 2006" . }}{{ end }} @ {{ dateFormat "3:04PM" .Params.dateeventstart }}</time>
+        <time>{{ dateFormat "Monday, January 2, 2006" .Params.dateeventstart }}{{ with .Params.dateeventend }} — {{ dateFormat "Monday, January 2, 2006" . }}{{ end }} {{ if eq .Params.showtime true }} @ {{ dateFormat "3:04PM" $.Params.dateeventstart }}{{ end }}</time>
       </p>
       <p class="o-list__excerpt c-article-list__excerpt">
         {{ .Description }}

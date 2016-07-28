@@ -4,11 +4,11 @@ categories = ["conference"]
 contactemail = ""
 contactname = ""
 contactphone = ""
-date = "2016-06-11T07:18:00+00:00"
+date = 2015-05-15T07:18:00Z
 datearticleexpiration = ""
 datearticleupdate = ""
 dateeventend = ""
-dateeventstart = "2016-10-29T00:00:00+00:00"
+dateeventstart = 2015-10-31T00:00:00Z
 draft = true
 featured = ""
 featuredalt = "Save the Date"
@@ -19,5 +19,5 @@ title = "Save the Date for the 2015 State Meeting"
 type = "post"
 
 +++
-Sorors get ready to attend the 2015 Oklahoma State meeting!
 
+Sorors get ready to attend the 2015 Oklahoma State meeting!
