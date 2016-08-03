@@ -6,13 +6,13 @@
     <description>Recent content in Events on Zeta Phi Beta Sorority, Inc. - Oklahoma State</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jul 2016 08:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jul 2016 18:56:00 +0000</lastBuildDate>
     <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>state meeting 2016</title>
       <link>/event/2016/07/state-meeting-2016</link>
-      <pubDate>Tue, 26 Jul 2016 08:40:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jul 2016 18:56:00 +0000</pubDate>
       
       <guid>/event/2016/07/state-meeting-2016</guid>
       <description>
@@ -38,12 +38,40 @@ October 2, 2016- October 15, 2016&lt;/p&gt;
     </item>
     
     <item>
+      <title>Register for the 2016 OK State Meeting</title>
+      <link>/event/2016/07/state-meeting-online-registration</link>
+      <pubDate>Tue, 26 Jul 2016 18:52:00 +0000</pubDate>
+      
+      <guid>/event/2016/07/state-meeting-online-registration</guid>
+      <description>&lt;p&gt;Early registration opened on August 1st for the 2016 State Meeting.  Use the form below to complete your registration!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Early registration: $30&lt;/strong&gt;&lt;br /&gt;
+August 1, 2016 - October 1, 2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Regular registration: $40&lt;/strong&gt;&lt;br /&gt;
+October 2, 2016- October 15, 2016&lt;/p&gt;
+
+&lt;div style=&#34;width:100%; text-align:left;&#34; &gt;&lt;iframe  src=&#34;https://www.eventbrite.com/e/2016-zeta-phi-beta-sorority-inc-oklahoma-state-leadership-meeting-tickets-26812041538?ref=eweb&#34; frameborder=&#34;0&#34; height=&#34;1000&#34; width=&#34;100%&#34; vspace=&#34;0&#34; hspace=&#34;0&#34; marginheight=&#34;5&#34; marginwidth=&#34;5&#34; scrolling=&#34;auto&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;&#34; &gt;&lt;a class=&#34;powered-by-eb&#34; style=&#34;color: #dddddd; text-decoration: none;&#34; target=&#34;_blank&#34; href=&#34;http://www.eventbrite.com/l/registration-online/&#34;&gt;Powered by Eventbrite&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>adopt-a-street sign unveiling and street cleanup</title>
       <link>/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</link>
-      <pubDate>Fri, 18 Sep 2015 08:00:00 -0500</pubDate>
+      <pubDate>Fri, 18 Sep 2015 08:00:00 +0000</pubDate>
       
       <guid>/event/2015/09/adopt-a-street-sign-unveiling-and-street-cleanup</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>uco interest meeting</title>
+      <link>/event/2015/07/uco-interest-meeting</link>
+      <pubDate>Mon, 27 Jul 2015 17:09:48 +0000</pubDate>
+      
+      <guid>/event/2015/07/uco-interest-meeting</guid>
+      <description>&lt;p&gt;stuff&lt;/p&gt;
+</description>
     </item>
     
   </channel>
