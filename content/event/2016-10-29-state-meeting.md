@@ -38,6 +38,6 @@ October 2, 2016- October 15, 2016
 
 <blockquote class="heading">No on-site registration</blockquote>
 
-{{< button align="left" text="Register Today" link="/state-meeting-online-registration/" >}}
+{{< button align="left" text="Register Today" link="state-meeting-online-registration/" >}}
 
-[Download the Flyer](img/2016/06/2016std_full_size.png)
+[Download the Flyer](/img/2016/06/2016std_full_size.png)
