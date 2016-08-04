@@ -1,8 +1,8 @@
 {{ $align := .Get "align" }}
 {{ $text := .Get "text" }}
 {{ $url := .Get "link" }}
-<p style="text-align: {{ $align }}">
+<p class="button-container" style="text-align: {{ $align }}">
   <span style="margin-bottom: 10px; margin-top: 10px; padding: 10px; display: inline-block; background-color: rgba(32, 65, 165, 1); text-transform: uppercase;">
-    <a href="{{ $url }}">{{ $text }}</a>
+    <a class="button-link" href="{{ $url }}">{{ $text }}</a>
   </span>
 </p>
