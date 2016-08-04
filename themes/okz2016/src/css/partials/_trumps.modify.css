@@ -33,6 +33,12 @@
 }
 .button-container {
   & span {
+    background-color: rgba(32, 65, 165, 1);
+    display: inline-block;
+    margin-bottom: 10px; 
+    margin-top: 10px; 
+    padding: 10px;   
+    text-transform: uppercase;
     &:hover {
       background-color: rgba(202, 202, 202, 1);
     }
@@ -45,5 +51,6 @@
   &:hover {
     background-color: rgba(255,255,255,0);
     border:none;
+    /*color: rgba(255,255,255,1);*/
   }
 }
