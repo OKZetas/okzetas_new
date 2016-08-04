@@ -1,11 +1,12 @@
 a {
-  border-bottom: 1px dashed var(--root-color);
+  border-bottom: 1px solid rgba(115, 115, 117, 1);
   color: var(--root-link-color); /*b0b0b1*/
   padding: 0 1px 1px;
   text-decoration: none;
   transition: all 0.5s ease;
   &:hover {
-    border-bottom: 1px solid var(--primary-root-color-one);
+    background-color: rgba(244, 246, 249, 1);
+    border-bottom: 1px solid rgba(228, 229, 231, 1);
     color: var(--primary-root-color-one);
   }
 }
@@ -13,7 +14,7 @@ a {
   @nest h1 & {
     border-bottom: 1px solid rgba(74, 74, 74, 0);
     &:hover {
-      border-bottom: 1px solid rgba(74, 74, 74, 1);
+      border-bottom: 1px solid rgba(202, 202, 202, 1);
     }
   }
 }
@@ -21,7 +22,7 @@ a {
   @nest h2 & {
     border-bottom: 1px solid rgba(74, 74, 74, 0);
     &:hover {
-      border-bottom: 1px solid rgba(74, 74, 74, 1);
+      border-bottom: 1px solid rgba(202, 202, 202, 1);
     }
   }
 }
@@ -29,7 +30,7 @@ a {
   @nest h3 & {
     border-bottom: 1px solid rgba(74, 74, 74, 0);
     &:hover {
-      border-bottom: 1px solid rgba(74, 74, 74, 1);
+      border-bottom: 1px solid rgba(202, 202, 202, 1);
     }
   }
 }
@@ -37,7 +38,7 @@ a {
   @nest h4 & {
     border-bottom: 1px solid rgba(74, 74, 74, 0);
     &:hover {
-      border-bottom: 1px solid rgba(74, 74, 74, 1);
+      border-bottom: 1px solid rgba(202, 202, 202, 1);
     }
   }
 }
@@ -50,7 +51,19 @@ a {
   & h3 {
     color: rgba(255, 255, 255, 1);
   }
+  @nest .news-archive & {
+    border-bottom: none;
+    display: block;
+
+    & h3 {
+      color: var(--primary-root-color-one);
+    } 
+    &:hover {
+      background-color: var(--root-background-color);
+    }
+  }
 }
+
 a {
   @nest .page__footer & {
     color: rgba(230, 230, 230, 1);
@@ -60,3 +73,11 @@ a {
     }
   }
 }
+.t-spotlight-list__item > a {
+  display: block;
+  border: none;
+  &:hover {
+    border: none;
+    background-color: rgba(1, 90, 153, .5);
+  }
+} 

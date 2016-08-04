@@ -2,6 +2,9 @@
   background-image: linear-gradient(-180deg, #2041A5 0%, #3B58B0 3.5%, #FFFFFF 3.5%, #FFFFFF 28%, #FFFFFF 98.9%, #2041A5 99%, #2041A5 100%);
   @media (--medium) {
     background-image: linear-gradient(-180deg, #2041A5 0%, #3B58B0 5%, #FFFFFF 5%, #FFFFFF 28%, #FFFFFF 96.9%, #2041A5 97%, #2041A5 100%);
+    &.spotlight {
+      background-image: linear-gradient(-180deg, #2041A5 0%, #3B58B0 2.5%, #FFFFFF 1%, #FFFFFF 28%, #FFFFFF 96.9%, #2041A5 97%, #2041A5 100%)
+    }
   }
   @media (--large) {
     /* pg bg: */
@@ -28,11 +31,22 @@
 .o-flag__image {
   max-height: 96.19px;
   overflow: hidden;
+  
   & img {
     max-width: 100%;
     transition: all 0.3s;
     &:hover {
       transform: scale(1.1);
+    }
+  }
+  @nest .spotlight-archive .t-spotlight-list__item & {
+    max-height: 260px;
+    & img {
+      max-width: 100%;
+      transition: all 0.3s;
+      &:hover {
+        transform: scale(1.1);
+      }
     }
   }
 }

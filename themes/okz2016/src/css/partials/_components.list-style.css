@@ -1,6 +1,6 @@
 .t-spotlight {
   background-color: rgba(255, 255, 255, 1);
-  border: 1px solid rgba(151, 151, 151, 1);
+  border: 1px solid rgba(228, 229, 231, 1);
   border-bottom: 5px solid rgba(74, 74, 74, 1);
   padding: 5px;
   & .section-head {
@@ -14,6 +14,9 @@
 .o-flag__body {
   color: rgba(155, 155, 155, 1);
   font-size: responsive .75rem .9rem;
+  & main {
+    margin-top: .6rem;
+  }
 }
 
 .list--inline { 
@@ -26,13 +29,21 @@
 /*event list*/
 .c-article-list__item {
   @nest .t-events-list & {
-    border: 1px solid rgba(151, 151, 151, 1);
+    border: 1px solid rgba(228, 229, 231, 1);
     border-bottom: 5px solid rgba(35, 68, 162, 1);
     margin-bottom: var(--spacing-unit--md);
     padding: .5rem;
+    & a {
+      border-bottom: none;
+      display: block;
+      text-decoration: none;
+      &:hover {
+        background-color: rgba(234, 234, 234, 0);
+      }
+    }
     &:hover {
       background-color: rgba(234, 234, 234, 1);
-      border-bottom-color: rgba(151, 151, 151, 1);
+      border-bottom-color: rgba(203, 204, 201, 1);
     }
   }
   @nest .news & {
@@ -45,6 +56,25 @@
     &:hover {
       background-color: rgba(0, 36, 105, 1);
       cursor: pointer;
+    }
+  }
+  @nest .event-archive & {
+    background-color: rgba(244, 246, 249, 1);
+    border-bottom: 1px solid var(--primary-root-color-one);
+    margin-bottom: 1rem;
+    padding: 1rem;
+    &:hover {
+      background-color: rgba(228, 229, 231, 1);
+    }
+  }
+  @nest .news-archive & {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    & .c-article-list__colophon {
+      position: relative;
+      border-bottom: none;
+      top: .3rem;
+
     }
   }
 }

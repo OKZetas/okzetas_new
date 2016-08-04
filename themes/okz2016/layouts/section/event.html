@@ -5,7 +5,7 @@
       <section  class="c-main__content--block" data-layout="u-1@lg">
         <article class="o-media-container">
           <h2><a href="/news">Events</a></h2>
-          <ul class="o-list c-article-list news">
+          <ul class="o-list c-article-list event-archive">
             {{ if .Site.Params.orderByPublishDate }}
                 {{ $paginator := .Paginate (where .Data.Pages.ByPublishDate.Reverse "Type" "event") }}
             {{ else }}
