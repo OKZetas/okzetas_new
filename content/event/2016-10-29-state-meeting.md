@@ -22,7 +22,7 @@ title = "state meeting 2016"
 # Saturday, October 29, 2016
 
 
-Location: Langston University — Langston, OK — Atrium 
+Location: Langston University — Langston, OK — Ag Building 
 Registration: 8:00am – 8:45am
 Business Session: **9:00am**
 
@@ -30,14 +30,14 @@ Business Session: **9:00am**
 -----
 
 
-**[Early registration](http://www.zphiboklahoma.org/event/2016/07/state-meeting-online-registration/): $30**
+**Early registration: $30**
 August 1, 2016 - October 1, 2016
 
-**[Regular registration](http://www.zphiboklahoma.org/event/2016/07/state-meeting-online-registration/): $40**
+**Regular registration: $40**
 October 2, 2016- October 15, 2016
-
-[Download the Flyer](img/2016/06/2016std_full_size.png)
 
 <blockquote class="heading">No on-site registration</blockquote>
 
-[Register Today](http://www.zphiboklahoma.org/event/2016/07/state-meeting-online-registration/)
+{{< button align="left" text="Register Today" link="/state-meeting-online-registration/" >}}
+
+[Download the Flyer](img/2016/06/2016std_full_size.png)
