@@ -1,6 +1,6 @@
 baseurl = "/"
 disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-41607453-1"
 languageCode = "en-us"
 paginate = 3
 preserveTaxonomyNames = true

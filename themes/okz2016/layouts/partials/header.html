@@ -28,7 +28,7 @@
       <link rel="canonical" href="{{ .Permalink }}">
       <script src="https://use.fontawesome.com/456ca9db71.js"></script>
       {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
-          {{ template "_internal/google_analytics.html" . }}
+          {{ template "_internal/google_analytics_async.html" . }}
       {{ end }}
     </head>
     <body class="page">
