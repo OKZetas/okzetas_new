@@ -15,7 +15,9 @@ title = "Greetings from the Outstanding Oklahoma Zetas"
 type = "post"
 
 +++
-Hello! Thank you for visiting the page of Zeta Phi Beta Sorority, Inc. As the interim state director of Oklahoma I greet you on behalf of all officers, members, Amicae, and youth in this outstanding state. Zeta Oklahoma is rich in history, Zeta “firsts”, and is home to a long legacy of hardworking leaders of our beloved organization that have served on local, state, regional, and national levels of the organization.
+### Hello! 
+
+Thank you for visiting the page of Zeta Phi Beta Sorority, Inc. As the interim state director of Oklahoma I greet you on behalf of all officers, members, Amicae, and youth in this outstanding state. Zeta Oklahoma is rich in history, Zeta “firsts”, and is home to a long legacy of hardworking leaders of our beloved organization that have served on local, state, regional, and national levels of the organization.
 
 > We do things with style, grace, and finer womanhood here in Oklahoma. 
 
