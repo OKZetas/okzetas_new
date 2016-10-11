@@ -1,8 +1,8 @@
 .menubar {
   /*text-align: right;*/
-  @media (--small) {
+  /*@media (--small) {
     @mixin visuallyhidden;
-  }
+  }*/
 }
 .menubar__item {
   display: inline-block;

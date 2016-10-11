@@ -42,7 +42,13 @@
                 {{ with .Site.Params.tagline }} <p class="text-uppercase">{{ . }}</p> {{ end }}
             </div>
             <nav class="o-nav" role="navigation" data-layout="u-3/8@lg">
-                {{ partial "nav.html" . }}
+              <ul class="o-site-colophon list--inline 1/3@lg text-capitalize text-cursive">
+                <li class="list__item 1/3">Mary B. Wright, International Grand President</li>
+                <li class="list__item 1/3">Samantha Hughes, Midwestern Regional Director</li>
+                <li class="list__item 1/3">Keisha Driskell, Interim Oklahoma State Director</li>
+              </ul>
+              <hr>
+              {{ partial "nav.html" . }}
             </nav> 
           </div>
         </div>
