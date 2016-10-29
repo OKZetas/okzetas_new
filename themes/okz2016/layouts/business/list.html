@@ -1,25 +1,9 @@
-{{ partial "header" . }}
-  {{ $baseurl := .Site.BaseURL }}
-  <main class="page__body" role="main">
-    <div class="page__body__content-area">
-      <section  class="c-main__content--block" data-layout="u-1@lg">
-        <article class="o-media-container">
-          <h2><a href="/news">Getting Things Done</a></h2>
-          <ul class="o-list c-article-list news">
-            {{ if .Site.Params.orderByPublishDate }}
-                {{ $paginator := .Paginate (where .Data.Pages.ByPublishDate.Reverse "Type" "business") }}
-            {{ else }}
-                {{ $paginator := .Paginate (where .Site.Pages "Type" "business") }}
-            {{ end }}
+<li class="o-list__item c-article-list__item news__item">
+  <a href="{{ .RelPermalink }}">
+    <h3 class="c-article-list__title text-capitalize">
+      {{substr .Title 0 54 }}{{ with gt (len .Title) 54 }} ...{{ end }}
+    </h3>
+  </a>
+</li>
 
-            {{ range .Paginator.Pages }}
-                {{ .Render "list" }}
-            {{ end }}
-          </ul>
-        </article>
-      </section>
-    </div>
-  </main>
-  <!-- {{ partial "pagination" . }} -->
-  <!-- Main -->
-{{ partial "footer" . }}
+<!-- #{ $author := index .Site.Data.authors.person.awoody } -->
