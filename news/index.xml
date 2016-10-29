@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Zeta Phi Beta Sorority, Inc. - Oklahoma State</title>
-    <link>/news/</link>
-    <description>Recent content in News on Zeta Phi Beta Sorority, Inc. - Oklahoma State</description>
+    <title>News-rsses on Zeta Phi Beta Sorority, Inc. - Oklahoma State</title>
+    <link>/news/index.xml</link>
+    <description>Recent content in News-rsses on Zeta Phi Beta Sorority, Inc. - Oklahoma State</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Aug 2016 08:00:00 +0000</lastBuildDate>
@@ -15,7 +15,11 @@
       <pubDate>Thu, 11 Aug 2016 08:00:00 +0000</pubDate>
       
       <guid>/news/2016/08/greetings-from-the-outstanding-oklahoma-zetas</guid>
-      <description>&lt;p&gt;Hello! Thank you for visiting the page of Zeta Phi Beta Sorority, Inc. As the interim state director of Oklahoma I greet you on behalf of all officers, members, Amicae, and youth in this outstanding state. Zeta Oklahoma is rich in history, Zeta “firsts”, and is home to a long legacy of hardworking leaders of our beloved organization that have served on local, state, regional, and national levels of the organization.&lt;/p&gt;
+      <description>
+
+&lt;h3 id=&#34;hello:e0de54e26944286b9ab6d6c2ae28669f&#34;&gt;Hello!&lt;/h3&gt;
+
+&lt;p&gt;Thank you for visiting the page of Zeta Phi Beta Sorority, Inc. As the interim state director of Oklahoma I greet you on behalf of all officers, members, Amicae, and youth in this outstanding state. Zeta Oklahoma is rich in history, Zeta “firsts”, and is home to a long legacy of hardworking leaders of our beloved organization that have served on local, state, regional, and national levels of the organization.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;We do things with style, grace, and finer womanhood here in Oklahoma.&lt;/p&gt;
