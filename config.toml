@@ -95,3 +95,10 @@ title = "Zeta Phi Beta Sorority, Inc. - Oklahoma State"
   weight = 4
   url = "/spotlight"
 
+  [[menu.main]]
+    name = "Zeta Business"
+    pre = ""
+    identifier = "Zeta Business"
+    weight = 5
+    url = "/business"
+
