@@ -5,6 +5,7 @@ contactemail = "director@zphiboklahoma.org"
 contactname = "Keisha Driskell"
 contactphone = ""
 date = 2016-07-28T18:56:00Z
+expiryDate = 2016-10-29T09:00:00Z
 datearticleexpiration = 2016-10-29T09:00:00Z
 datearticleupdate = ""
 dateeventend = ""

@@ -5,6 +5,7 @@ contactemail = "amontgo43@yahoo.com"
 contactname = "Andrea Montgomery"
 contactphone = ""
 date = 2016-12-01T08:00:00Z
+expiryDate = 2016-12-10T19:00:00Z
 datearticleexpiration = 2016-12-10T19:00:00Z
 datearticleupdate = ""
 dateeventend = ""

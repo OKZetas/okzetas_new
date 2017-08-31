@@ -5,6 +5,7 @@ contactemail = ""
 contactname = ""
 contactphone = ""
 date = 2014-11-27T17:00:46Z
+expiryDate = 2015-01-17T17:08:12Z
 datearticleexpiration = 2015-01-17T17:08:12Z
 datearticleupdate = ""
 dateeventend = ""

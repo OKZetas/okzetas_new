@@ -10,10 +10,8 @@
       <article class="o-media-container t-event">
         <h2><a href="/event">Upcoming Events</a></h2>
         <ul class="o-list c-article-list t-events-list">
-          {{ range first 5 (where .Data.Pages.ByDate "Section" "event") }}
-            {{ if (ge .Params.datearticleexpiration .Now) }}
-              {{ .Render "list"}}
-            {{ end }}
+          {{ range first 5 (where .Data.Pages.ByExpiryDate "Section" "event") }}
+            {{ .Render "list"}}
           {{ end }}
         </ul>
       </article>

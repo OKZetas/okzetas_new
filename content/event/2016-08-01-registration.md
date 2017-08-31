@@ -5,6 +5,7 @@ contactemail = "director@zphiboklahoma.org"
 contactname = ""
 contactphone = ""
 date = 2016-07-26T18:52:00Z
+expiryDate = 2016-10-15T23:59:00Z
 datearticleexpiration = 2016-10-15T23:59:00Z
 datearticleupdate = ""
 dateeventend = 2016-10-15T00:00:00Z

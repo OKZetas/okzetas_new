@@ -5,6 +5,7 @@ contactemail = "director@zphiboklahoma.org"
 contactname = "Curtesia D. Battle-Smith"
 contactphone = ""
 date = 2017-07-28T18:56:00Z
+expiryDate = 2017-10-31T09:00:00Z
 datearticleexpiration = 2017-10-31T09:00:00Z
 datearticleupdate = ""
 dateeventend = ""
