@@ -8,14 +8,14 @@ date = 2017-07-28T18:56:00Z
 expiryDate = 2017-10-31T09:00:00Z
 datearticleexpiration = 2017-10-31T09:00:00Z
 datearticleupdate = ""
-dateeventend = ""
+dateeventend = 2017-10-31T09:00:00Z
 dateeventstart = 2017-07-01T09:00:00Z
 draft = false
 featured = ""
 featuredalt = ""
 featuredpath = ""
 location = "State Website"
-showtime = true
+showtime = false
 tags = []
 title = "State Financial Reporting"
 
