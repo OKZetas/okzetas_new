@@ -152,6 +152,23 @@ html, body {
       lost-column: 2/3;
     }
   }
+  .t-mainbody-list__item {
+    lost-utility: clearfix;
+    & .o-flag__image {
+      lost-column: 1;
+    }
+    & .o-flag__body {
+      lost-column: 1;
+    }
+    @media (--medium) {
+      & .o-flag__image {
+        lost-column: 1/3;
+      }
+      & .o-flag__body {
+        lost-column: 2/3;
+      }
+    }
+  }
   .t-event {
     lost-column: 1/1;
     padding: 0;
