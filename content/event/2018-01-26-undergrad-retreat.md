@@ -16,6 +16,7 @@ featuredalt = ""
 featuredpath = "date"
 location = ""
 tags = []
+title = "2017 – 2018 Undergraduate Retreat"
 slug = "2018-undergrad-retreat"
 +++
 
