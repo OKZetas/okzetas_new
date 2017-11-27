@@ -8,4 +8,5 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 tags = []
+type = "business"
 +++

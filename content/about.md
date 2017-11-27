@@ -6,7 +6,6 @@ featuredalt = ""
 featuredpath = ""
 tags = []
 +++
-
 The first chapter in what is now known as the Midwestern Region of Zeta Phi Beta Sorority, Inc. — Pi— was chartered in Tulsa, OK in 1927.  The chapter went inactive after one year and remained so for eight years.  E. Juanita Tate,an original charter member of Pi Chapter, helped to reactivate it in November 1935.
 
 In that same year Juanita received the following telegram from Grand Basileus Violette N. Anderson: “I have created a new region, named it Southwest and you are the director.” Juanita replied, “There is nothing in the Southwest to direct but my chapter and I am it’s Basileus.” Grand Basileus Anderson responded, “That’s your job. Get something to direct!”

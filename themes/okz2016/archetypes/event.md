@@ -15,4 +15,6 @@ featuredalt = ""
 featuredpath = ""
 location = ""
 tags = []
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = "{{ .Date }}"
 +++
