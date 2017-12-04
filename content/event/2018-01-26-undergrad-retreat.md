@@ -15,7 +15,7 @@ draft = false
 featured = "2018-01-26 UG retreat.jpg"
 featuredalt = ""
 featuredpath = "date"
-location = ""
+location = "Norman, OK"
 tags = []
 title = "2017 – 2018 Undergraduate Retreat"
 slug = "2018-undergrad-retreat"
@@ -25,6 +25,8 @@ This will be a mandatory retreat for all undergraduates in the state of Oklahoma
 
 * Additional details and agenda will be released early January.
 * Since this is a mandatory event, work now to ensure your attendance so that there will be no conflicts (i.e. work schedule, childcare, etc).
+
+* <small>Registration fee includes lodging and meals</small>
 
 For more information contact Soror Artisha Woody using the comment box below!
 {{< button align="left" text="Register Today" link="https://www.eventbrite.com/e/2018-undergraduate-retreat-tickets-40793910685" >}}
