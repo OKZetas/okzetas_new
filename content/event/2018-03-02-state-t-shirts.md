@@ -22,8 +22,8 @@ slug = "2018-zeta-shirts"
 
 Your Basilei voted and Oklahoma State is going to deliver! We are looking to complete multiple projects wearing these cute Oklahoma Zeta shirts. "Don't be left out!"
 
-![Shirt Front](img/2018/02/2018-02-t-shirt-front.jpg "OK Zetas Shirt Front")
-![Shirt Back](img/2018/02/2018-02-t-shirt-back.jpg "OK Zetas Shirt Back")
+![Shirt Front](/img/2018/02/2018-02-t-shirt-front.jpeg "OK Zetas Shirt Front")
+![Shirt Back](/img/2018/02/2018-02-t-shirt-back.jpeg "OK Zetas Shirt Back")
 
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/0JUnWO1cMESj64nMI9c4vQ"></script>
