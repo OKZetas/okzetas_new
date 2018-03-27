@@ -20,9 +20,9 @@
         </div>
       </section>
       <article class="o-media-container t-event">
-        <h2><a href="/event">Events & Announcements</a></h2>
+        <h2><a href="/event">Events &amp; Announcements</a></h2>
         <ul class="o-list c-article-list t-events-list">
-          {{ range first 5 (where .Data.Pages.ByExpiryDate "Section" "event") }}
+          {{ range first 5 (where .Data.Pages.ByExpiryDate "Section" "events") }}
             {{ .Render "list"}}
           {{ end }}
         </ul>

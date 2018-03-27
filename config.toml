@@ -46,7 +46,7 @@ title = "Zeta Phi Beta Sorority, Inc. - Oklahoma State"
 
 [permalinks]
   news = "/:section/:year/:month/:slug"
-  event = "/:section/:year/:month/:slug"
+  events = "/:section/:year/:month/:slug"
   spotlight = "/:section/:year/:month/:slug"
 
 [sitemap]
@@ -79,7 +79,7 @@ title = "Zeta Phi Beta Sorority, Inc. - Oklahoma State"
   pre = ""
   identifier = "events"
   weight = 3
-  url = "/event"
+  url = "/events"
 
 [[menu.main]]
   name = "announcements"
