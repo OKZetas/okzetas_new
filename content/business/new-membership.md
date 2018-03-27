@@ -7,7 +7,7 @@ categories = []
 featured = ""
 featuredalt = ""
 featuredpath = ""
-slug = "📢new-member-reporting"
+slug = "%F0%9F%93%A2new-member-reporting"
 tags = []
 type = "business"
 +++
@@ -21,9 +21,11 @@ type = "business"
   {{< tab-content tabId="step-1" >}}
   	<iframe class="airtable-embed" src="https://airtable.com/embed/shr2H7Wq67pvL1jfa?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
   {{< /tab-content >}}
+  
   {{ tab-content tabId="step-2 >}}
   	<iframe class="airtable-embed" src="https://airtable.com/embed/shrKCUBv1lsYDQyQR?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
   {{< /tab-content >}}
+  
   {{ tab-content tabId="step-3" >}}
   	<iframe class="airtable-embed" src="https://airtable.com/embed/shrsuqAUbokzPdXZL?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>") }}
   {{< /tab-content >}}
