@@ -2,12 +2,12 @@
 <main class="page__body o-article__body" role="main">
   <article class="article page__body__content-area">
     <h1 class="subheading c-article__title text-capitalize">{{ .Title }}</h1>
-    <section class="c-main__content" data-layout="u-2/3@lg">
+    <section class="c-main__content--block " data-layout="u-1@lg">
       {{ .Content }}
     </section>
-    <aside class="c-main__sidebar" data-layout="u-1/3@lg" >
+  <!--  <aside class="c-main__sidebar" data-layout="u-1/3@lg" >
       {{ partial "sidebar.html" . }}
-    </aside>
+    </aside>-->
   </article>
 </main>
 {{ partial "footer.html" . }}
