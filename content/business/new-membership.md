@@ -15,7 +15,7 @@ type = "business"
 <div id="tabs">
   <ul>
 	{{< tab-list tabId="step-1" tabTitle="Step 1: Add/Update Member Data" >}}
-	{{< tab-list tabId="step-2" tabTitle="Step 2: Prepare Chapter Roster" >}}
+	{{< tab-list tabId="step-2" tabTitle="Step 2: Create Chapter Roster" >}}
 	{{< tab-list tabId="step-3" tabTitle="Step 3: File Chapter Report" >}}
   </ul>
 </div>
