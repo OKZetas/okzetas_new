@@ -956,6 +956,10 @@ a:visited.ui-button,
 	font-weight: normal;
 	color: #2b2b2b;
 }
+.ui-state-hover {
+	border: 1px solid #182361;
+	background: #0d3371;
+}
 .ui-state-hover a,
 .ui-state-hover a:hover,
 .ui-state-hover a:link,
